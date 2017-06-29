@@ -36,16 +36,23 @@
   height: 170px;
   width: 100%;
   background-color: #dedede;
-  text-align: center;
   bottom: 0px;
   padding-top: 10px;
   padding-bottom: 10px;
-  padding-left: 150px;
-  padding-right: 150px;
 }
 
 .footercredits{
   text-align: center;
+}
+
+.dsl-logo{
+  padding-left: 400px;
+}
+
+.libraries-logo{
+  padding-right: 150px;
+  padding-bottom: 50px;
+  padding-top: 50px;
 }
 
 a:link{
