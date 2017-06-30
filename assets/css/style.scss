@@ -41,26 +41,39 @@
   padding-bottom: 10px;
 }
 
+.righttwocolumns{
+  position: absolute;
+  width: 67%;
+  float: right;
+}
+
 .footercredits{
-  position: relative;
+  position: absolute;
   text-align: center;
   margin-left: 50%;
   margin-right: 50%;
-  width: 33%;
-}
-
-.dsl-logo{
-  width: 33%;
-  padding-left: 10px;
+  width: 50%;
   float: left;
 }
 
-.libraries-logo{
+.dsl-logo{
+  position: absolute;
+  float: left;
   width: 33%;
-  margin-right: 150px;
-  margin-bottom: 50px;
-  margin-top: 50px;
+  padding-left: 50%;
+  padding-right: 50%;
+  padding-top: 50%;
+  padding-bottom: 50%;
+}
+
+.libraries-logo{
+  position: absolute;
+  width: 50%;
   float: right;
+  padding-left: 50%;
+  padding-right: 50%;
+  padding-top: 50%;
+  padding-bottom: 50%;
 }
 
 a:link{
@@ -71,7 +84,7 @@ a:hover{
   color: #880000;
 }
 
-img.maincontent {
+.maincontent img{
   display:block;
   margin-top: 10px!important;
   margin-bottom: 10px;
