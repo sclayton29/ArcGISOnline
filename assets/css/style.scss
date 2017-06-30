@@ -55,7 +55,10 @@
   float: left;
   width: 33%;
   height: 170px;
- 
+  padding-top: 50%;
+  padding-bottom: 50%;
+  padding-left: 50%;
+  padding-right: 50%;
 }
 
 .righttwocolumns{
@@ -66,7 +69,8 @@
 }
 
 .footercredits{
-  
+  padding-top: 50%;
+  padding-bottom: 50%;
   text-align: center;
   width: 50%;
   height: 170px;
@@ -76,7 +80,8 @@
 
 
 .libraries-logo{
-
+  padding-top: 50%;
+  padding-bottom: 50%;
   width: 50%;
   height: 170px;
   float: right;
