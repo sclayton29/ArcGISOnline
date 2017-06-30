@@ -58,11 +58,12 @@
 .footercredits{
   position: absolute;
   text-align: center;
-  margin-left: 50%;
-  margin-right: 50%;
+  padding-left: 50%;
+  padding-right: 50%;
   width: 50%;
   height: 170px;
   float: left;
+  vertical-align: center;
 }
 
 .dsl-logo{
