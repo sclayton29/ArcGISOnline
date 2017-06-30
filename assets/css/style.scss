@@ -48,26 +48,8 @@
   padding-bottom: 10px;
 }
 
-.righttwocolumns{
-  position: absolute;
-  width: 67%;
-  height: 170px;
-  float: right;
-}
-
-.footercredits{
-  position: absolute;
-  text-align: center;
-  padding-left: 50%;
-  padding-right: 50%;
-  width: 50%;
-  height: 170px;
-  float: left;
-  vertical-align: center;
-}
-
 .dsl-logo{
-  position: absolute;
+ 
   float: left;
   width: 33%;
   height: 170px;
@@ -77,8 +59,27 @@
   padding-bottom: 50%;
 }
 
+.righttwocolumns{
+ 
+  width: 67%;
+  height: 170px;
+  float: right;
+}
+
+.footercredits{
+  
+  text-align: center;
+  padding-left: 50%;
+  padding-right: 50%;
+  width: 50%;
+  height: 170px;
+  float: left;
+  vertical-align: center;
+}
+
+
 .libraries-logo{
-  position: absolute;
+ 
   width: 50%;
   height: 170px;
   float: right;
