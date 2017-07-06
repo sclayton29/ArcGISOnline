@@ -1,4 +1,4 @@
-Use this template to create a OU DSL workshop. 
+Use this template to create an OU DSL workshop. 
 
 1. Import this this repo using the [GitHub Importer](https://github.com/new/import). 
 2. Go into settings and select the master branch as the source for GitHub Pages. 
