@@ -113,7 +113,7 @@ For this example, we will add a CSV file created with data from the 2011 Census 
 
 Open the data and examine it to ensure you understand the contents. 
 
-![CSV file with religion data](images/image_09.jpg)
+![CSV file with religion data](images/image_09.png)
 
 Now, we can add this data to the map. Select **Add** from the top left menu, and click **Add Layer from File.** 
 
