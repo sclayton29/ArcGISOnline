@@ -63,7 +63,7 @@ Select **Basemap** on the left side above the side panel to see the options. Som
 
 ![ArcGIS Online's selection of basemaps](images/image_04.jpg)
 
-When selecting a basemap, chose one that is appropriate for your topic. For example, if you are examining an environmental issue, one of the topographic maps might be best. Since this map will examine London's population, I want to retain information about the built environment and will select the **Imagery with Labels** option. Once you select a different basemap, the background of the map will immediately change. *Note: Like the position of the map, you can can this anytime while making your map*
+When selecting a basemap, chose one that is appropriate for your topic. For example, if you are examining an environmental issue, one of the topographic maps might be best. Since this map will examine London's population, I want to retain information about the built environment and will select the **Imagery with Labels** option. Once you select a different basemap, the background of the map will immediately change. *Note: Like the position of the map, you can alter this anytime while making your map.*
 
 [Return to Top](#about)
 
@@ -229,7 +229,7 @@ Unfortunately, you will need to edit these point by point. First make sure that 
 ### Rearranging and Selecting Layers
 As you have noticed, maps can be overwhelmed with information very quickly. 
 
-We can help make our map clearer my rearranging data layers and selecting which ones to be active. 
+We can help make our map clearer by rearranging data layers and selecting which ones to be active. 
 
 Let's start by switching the Hindu population and the Muslim population percentages layers. To do this, hoover over the layer name, and point your mouse over the three dots that appear to the left of the layer name. Click and drag to reposition the layer to where you want it on the list. In general, layers closer to top of the list will appear on top of those below it in the list. 
 
